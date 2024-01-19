@@ -6,7 +6,7 @@ En esta práctica, llevaremos a cabo una breve limpieza de datos utilizando Pyth
 ## Requisitos
 1. **Programa para Descomprimir Archivos .rar:** Asegúrate de contar con un programa que te permita descomprimir archivos en formato .rar, ya que uno de los archivos está comprimido de esta manera para ahorrar espacio.
    
-2. **Interpretador de python:** Necesitarás tener instalado un sistema de gestión de bases de datos relacional, como MySQL, para ejecutar los scripts SQL proporcionados.
+2. **Interpretador de python:** Necesitarás tener instalado un sistema de gestión de bases de datos relacional, como Visual Studio Code, para ejecutar los scripts proporcionados.
 
 3. **Descargar Archivos:**
    - Descarga los tres archivos CSV que se proporcionan con el nombre 'INE'.
